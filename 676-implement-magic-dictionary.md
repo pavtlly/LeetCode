@@ -10,11 +10,11 @@ public:
     MagicDictionary() {
 
     }
-    
+
     void buildDict(vector<string> dictionary) {
         words = dictionary;
     }
-    
+
     bool search(string searchWord) {
         for (auto word: words) {
             if (searchWord.size() != word.size()) continue;
