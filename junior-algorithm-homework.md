@@ -56,3 +56,26 @@
 
 #### [1482. 制作 m 束花所需的最少天数](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/)
 
+## 第三讲：双指针
+
+### 1. 同向双指针
+
+#### [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
+
+#### [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
+
+#### [283. 移动零](https://leetcode.cn/problems/move-zeroes)
+
+### 2. 相向双指针
+
+#### [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)
+
+#### [15. 三数之和](https://leetcode.cn/problems/3sum/)
+
+#### [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/)
+
+#### [344. 反转字符串](https://leetcode.cn/problems/reverse-string)
+
+### 3. 背向双指针
+
+#### [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)
