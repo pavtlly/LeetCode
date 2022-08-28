@@ -79,3 +79,17 @@
 ### 3. 背向双指针
 
 #### [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)
+
+## 第四讲：深度优先搜索
+
+### 1. 树上搜索
+
+#### [437. 路径总和 III](https://leetcode.cn/problems/path-sum-iii/)
+
+#### [563. 二叉树的坡度](https://leetcode.cn/problems/binary-tree-tilt/)
+
+### 2. 矩阵搜索
+
+#### [130. 被围绕的区域](https://leetcode.cn/problems/surrounded-regions/)
+
+#### [1254. 统计封闭岛屿的数目](https://leetcode.cn/problems/number-of-closed-islands/)
